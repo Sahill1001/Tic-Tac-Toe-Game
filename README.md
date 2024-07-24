@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Tic-Tac-Toe Game Description
+Objective
+Tic-Tac-Toe is a two-player game where the objective is to be the first to get three of your symbols (either X or O) in a row on a 3x3 grid. The rows can be horizontal, vertical, or diagonal.
+
+Players
+Player 1: Uses the symbol X
+Player 2: Uses the symbol O
+Gameplay
+Setup: The game is played on a 3x3 grid.
+
+Starting the Game: Decide who goes first. Players can choose by mutual agreement, a coin toss, or any other method.
+
+Taking Turns: Players take turns placing their symbols (X or O) in one of the empty squares on the grid. Player 1 usually goes first.
+
+Winning the Game: The game is won by the first player to get three of their symbols in a row. The row can be horizontal, vertical, or diagonal.
+
+Draw: If all nine squares are filled and neither player has three in a row, the game is considered a draw.
+
+Strategies
+Offensive Strategy: Aim to create a row of three symbols while also blocking your opponent from doing so.
+Defensive Strategy: Focus on blocking your opponent's moves to prevent them from getting three in a row.
